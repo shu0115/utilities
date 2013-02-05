@@ -2,4 +2,7 @@
 ja:
   activerecord:
     models:
+      model_name: ""
     attributes:
+      model_name:
+        attr_name: ""
